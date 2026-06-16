@@ -1,6 +1,6 @@
 **All code for python in python ver 3.11.14 as of 05.30.26 *(mm.dd.yy format)*, unless specified otherwise** 
 
-Feel free to edit the code all you want, but please do not touch the main branch. If you want to do it better than me, I will surely look at it, but leave the original code.
-If anyone would like to tell me something, such as tips of github, I am still learning, so email me! I would greatly appreciate it!
+Most of the code here was just testing an idea, or a one-off thing, so none
+of it id in any way efficient (or atleast it likely isn't)
 
 check out my [youtube](https://www.youtube.com/@riamtyn)
